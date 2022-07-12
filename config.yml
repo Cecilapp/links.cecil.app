@@ -16,10 +16,10 @@ applanding:
   screenshot:
     desktop: preview.png
     mobile: mobile-preview.png
-  demo: https://cecil-links.netlify.app
-#netlify:
-#  redirects:
-#    - from: https://cecil-links.netlify.app/*
-#      to: https://links-demo.cecil.app/:splat
-#      status: 301
-#      force: true
+  demo: https://cecil-links-demo.netlify.app
+netlify:
+  redirects:
+    - from: https://cecil-links.netlify.app/*
+      to: https://links-demo.cecil.app/:splat
+      status: 301
+      force: true
