@@ -1,6 +1,6 @@
-# App template
+# links.cecil.app
 
-GitHub template for a new App website.
+Links website.
 
 ## Development
 

@@ -1,7 +1,7 @@
-title: App
-baseline: Baseline
-description: Description.
-baseurl: https://app.cecil.app/
+title: 🌳 Links
+baseline: Stay the owner of your links
+description: Links is a Linktree clone powered by Cecil, Tailwind CSS and Font Awesome.
+baseurl: https://links.cecil.app/
 image: preview.png
 theme:
   - applanding
@@ -9,21 +9,17 @@ theme:
 applanding:
   buttons:
     - name: Netlify
-      url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/repository&stack=cms
+      url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/Links&stack=cms
       image: https://www.netlify.com/img/deploy/button.svg
-  source: https://github.com/Cecilapp/repository
-  documentation: https://github.com/Cecilapp/repository#readme
+  source: https://github.com/Cecilapp/Links
+  documentation: https://github.com/Cecilapp/Links#readme
   screenshot:
-    desktop:
-      light: preview.png
-      dark: preview-dark.png
-    mobile:
-      light: mobile-preview.png
-      dark: mobile-preview-dark.png
-  demo: https://app-demo.cecil.app
-netlify:
-  redirects:
-    - from: https://app.netlify.app/*
-      to: https://app-demo.cecil.app/:splat
-      status: 301
-      force: true
+    desktop: preview.png
+    mobile: mobile-preview.png
+  demo: https://cecil-links.netlify.app
+#netlify:
+#  redirects:
+#    - from: https://cecil-links.netlify.app/*
+#      to: https://links-demo.cecil.app/:splat
+#      status: 301
+#      force: true
