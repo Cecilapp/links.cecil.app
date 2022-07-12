@@ -1,0 +1,29 @@
+title: App
+baseline: Baseline
+description: Description.
+baseurl: https://app.cecil.app/
+image: preview.png
+theme:
+  - applanding
+  - netlify
+applanding:
+  buttons:
+    - name: Netlify
+      url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/repository&stack=cms
+      image: https://www.netlify.com/img/deploy/button.svg
+  source: https://github.com/Cecilapp/repository
+  documentation: https://github.com/Cecilapp/repository#readme
+  screenshot:
+    desktop:
+      light: preview.png
+      dark: preview-dark.png
+    mobile:
+      light: mobile-preview.png
+      dark: mobile-preview-dark.png
+  demo: https://app-demo.cecil.app
+netlify:
+  redirects:
+    - from: https://app.netlify.app/*
+      to: https://app-demo.cecil.app/:splat
+      status: 301
+      force: true
