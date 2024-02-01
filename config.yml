@@ -1,6 +1,6 @@
 title: 🌳 Links
 baseline: Stay the owner of your links
-description: Links is a Linktree clone powered by Cecil, Tailwind CSS and Font Awesome.
+description: Links is a Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 baseurl: https://links.cecil.app/
 image: preview.png
 theme:
