@@ -14,8 +14,12 @@ applanding:
   source: https://github.com/Cecilapp/Links
   documentation: https://github.com/Cecilapp/Links#readme
   screenshot:
-    desktop: preview.png
-    mobile: mobile-preview.png
+    desktop:
+      light: preview.png
+      dark: preview-dark.png
+    mobile:
+      light: mobile-preview.png
+      dark: mobile-preview-dark.png
   demo: https://cecil-links-demo.netlify.app
 netlify:
   redirects:
