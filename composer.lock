@@ -128,20 +128,20 @@
         },
         {
             "name": "cecil/theme-netlify",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cecilapp/theme-netlify.git",
-                "reference": "22f2799058513cfe427f5b47b568d515e60f2932"
+                "reference": "c74e2c8f4dd07f4d132d14a95a95eedf35ff67fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-netlify/zipball/22f2799058513cfe427f5b47b568d515e60f2932",
-                "reference": "22f2799058513cfe427f5b47b568d515e60f2932",
+                "url": "https://api.github.com/repos/Cecilapp/theme-netlify/zipball/c74e2c8f4dd07f4d132d14a95a95eedf35ff67fa",
+                "reference": "c74e2c8f4dd07f4d132d14a95a95eedf35ff67fa",
                 "shasum": ""
             },
             "require": {
-                "cecil/theme-installer": "^1.4"
+                "cecil/theme-installer": "^1.4|^2.0"
             },
             "type": "cecil-theme",
             "extra": {
@@ -162,7 +162,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Cecilapp/theme-netlify/issues",
-                "source": "https://github.com/Cecilapp/theme-netlify/tree/2.0.0"
+                "source": "https://github.com/Cecilapp/theme-netlify/tree/2.1.0"
             },
             "funding": [
                 {
@@ -174,16 +174,16 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-12-09T01:10:41+00:00"
+            "time": "2024-11-26T01:37:24+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
+    "platform": {},
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
