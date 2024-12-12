@@ -11,6 +11,9 @@ applanding:
     - name: Netlify
       url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/Links&stack=cms
       image: https://www.netlify.com/img/deploy/button.svg
+    - name: Vercel
+      url: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCecilapp%2FLinks
+      image: https://vercel.com/button/default.svg
   source: https://github.com/Cecilapp/Links
   documentation: https://github.com/Cecilapp/Links#readme
   screenshot:
