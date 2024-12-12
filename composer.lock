@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2fab5ea66390702e64f59717f1062ab1",
+    "content-hash": "744eeb7db5be2af24ea51965e3b1213a",
     "packages": [
         {
             "name": "cecil/theme-applanding",
