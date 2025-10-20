@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "cecil/theme-applanding",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cecilapp/theme-applanding.git",
-                "reference": "2754f6e801d469408631122d06a1607ad65b296c"
+                "reference": "93e375f9d6623139e70159cb3035790826aa9822"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-applanding/zipball/2754f6e801d469408631122d06a1607ad65b296c",
-                "reference": "2754f6e801d469408631122d06a1607ad65b296c",
+                "url": "https://api.github.com/repos/Cecilapp/theme-applanding/zipball/93e375f9d6623139e70159cb3035790826aa9822",
+                "reference": "93e375f9d6623139e70159cb3035790826aa9822",
                 "shasum": ""
             },
             "require": {
@@ -42,7 +42,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Cecilapp/theme-applanding/issues",
-                "source": "https://github.com/Cecilapp/theme-applanding/tree/2.1.0"
+                "source": "https://github.com/Cecilapp/theme-applanding/tree/2.1.1"
             },
             "funding": [
                 {
@@ -54,7 +54,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2025-10-07T01:43:33+00:00"
+            "time": "2025-10-20T23:08:29+00:00"
         },
         {
             "name": "cecil/theme-installer",
