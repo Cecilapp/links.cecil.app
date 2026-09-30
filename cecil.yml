@@ -2,7 +2,7 @@ title: 🌳 Links
 baseline: Stay the owner of your links
 description: Links is a Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 baseurl: https://links.cecil.app/
-image: preview.png
+image: screenshot.png
 theme:
   - applanding
   - netlify
@@ -17,12 +17,8 @@ applanding:
   source: https://github.com/Cecilapp/Links
   documentation: https://github.com/Cecilapp/Links#readme
   screenshot:
-    desktop:
-      light: preview.png
-      dark: preview-dark.png
-    mobile:
-      light: mobile-preview.png
-      dark: mobile-preview-dark.png
+    desktop: screenshot.png
+    mobile: screenshot-mobile.png
   demo: https://cecil-links-demo.netlify.app
 netlify:
   redirects:

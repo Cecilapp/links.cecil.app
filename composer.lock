@@ -4,24 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ab2cec4d295e89e69afe6c39b587998",
+    "content-hash": "167d05a576dc70cf0b22b6b7d187cd13",
     "packages": [
         {
             "name": "cecil/theme-applanding",
-            "version": "2.2.1",
+            "version": "2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cecilapp/theme-applanding.git",
-                "reference": "96c23d13336f78c7d91154d33521da5b9ee6bef4"
+                "reference": "b181f3fd81c886dc515a36644d414905e5cef6c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-applanding/zipball/96c23d13336f78c7d91154d33521da5b9ee6bef4",
-                "reference": "96c23d13336f78c7d91154d33521da5b9ee6bef4",
+                "url": "https://api.github.com/repos/Cecilapp/theme-applanding/zipball/b181f3fd81c886dc515a36644d414905e5cef6c2",
+                "reference": "b181f3fd81c886dc515a36644d414905e5cef6c2",
                 "shasum": ""
             },
             "require": {
                 "cecil/theme-installer": "^1.4|^2.0"
+            },
+            "require-dev": {
+                "aligny/tailwind-builder": "^1.2"
             },
             "type": "cecil-theme",
             "extra": {
@@ -42,7 +45,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Cecilapp/theme-applanding/issues",
-                "source": "https://github.com/Cecilapp/theme-applanding/tree/2.2.1"
+                "source": "https://github.com/Cecilapp/theme-applanding/tree/2.3.0"
             },
             "funding": [
                 {
@@ -54,7 +57,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-01-07T15:54:49+00:00"
+            "time": "2026-09-30T00:16:41+00:00"
         },
         {
             "name": "cecil/theme-installer",
