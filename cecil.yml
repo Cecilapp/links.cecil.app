@@ -16,9 +16,7 @@ applanding:
       image: https://vercel.com/button/default.svg
   source: https://github.com/Cecilapp/Links
   documentation: https://github.com/Cecilapp/Links#readme
-  screenshot:
-    desktop: screenshot.png
-    mobile: screenshot-mobile.png
+  screenshot: screenshot.png
   demo: https://cecil-links-demo.netlify.app
 netlify:
   redirects:
