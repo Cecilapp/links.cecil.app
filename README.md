@@ -4,6 +4,11 @@ _Links_ website.
 
 ## Development
 
+### Requirements
+
+- PHP with the GD extension (FreeType support), used to generate Open Graph images
+- Cecil 9.29+
+
 ### Install
 
 ```bash
