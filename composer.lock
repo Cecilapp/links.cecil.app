@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8874b9ac74f2f72f86c1ce9489702c31",
+    "content-hash": "212695c28ed96272991b9374cab86693",
     "packages": [
         {
             "name": "cecil/theme-applanding",
@@ -137,16 +137,16 @@
         },
         {
             "name": "cecil/theme-netlify",
-            "version": "2.2.1",
+            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cecilapp/theme-netlify.git",
-                "reference": "291491312e26724b76eac0d3f8f3e1a53f15fc3e"
+                "reference": "681a4c854173bf159bd5c8a292e7c6899ffa8014"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-netlify/zipball/291491312e26724b76eac0d3f8f3e1a53f15fc3e",
-                "reference": "291491312e26724b76eac0d3f8f3e1a53f15fc3e",
+                "url": "https://api.github.com/repos/Cecilapp/theme-netlify/zipball/681a4c854173bf159bd5c8a292e7c6899ffa8014",
+                "reference": "681a4c854173bf159bd5c8a292e7c6899ffa8014",
                 "shasum": ""
             },
             "require": {
@@ -156,7 +156,7 @@
             "extra": {
                 "name": "netlify",
                 "branch-alias": {
-                    "dev-master": "2.x-dev"
+                    "dev-main": "3.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -171,7 +171,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Cecilapp/theme-netlify/issues",
-                "source": "https://github.com/Cecilapp/theme-netlify/tree/2.2.1"
+                "source": "https://github.com/Cecilapp/theme-netlify/tree/3.0.2"
             },
             "funding": [
                 {
@@ -183,7 +183,8 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2025-06-11T22:50:06+00:00"
+            "time": "2026-10-19T11:19:58+00:00",
+            "published-time": "2026-10-19T11:20:06+00:00"
         },
         {
             "name": "cecil/theme-ogimage",
